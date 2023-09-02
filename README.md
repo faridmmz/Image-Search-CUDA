@@ -25,8 +25,6 @@
 
 This project focuses on implementing a parallel image search program using CUDA, a parallel computing platform and API model created by NVIDIA. The objective is to efficiently find similar images within a dataset of random images using an image query. based on image features by utilizing the parallel processing capabilities of NVIDIA GPUs.
 
-
-
 ## Overview
 
 The project involves rewriting an existing image search program from a previous phase (implemented in C++ with OpenMP) into a CUDA-based version. The program aims to find similar images by comparing various image features such as mean, median, standard deviation, Hu moments, and histograms. The CUDA implementation leverages the GPU's parallel architecture to significantly accelerate the image similarity calculation.
