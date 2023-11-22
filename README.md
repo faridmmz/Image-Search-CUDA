@@ -3,7 +3,6 @@
 ![Photo by <a href="https://unsplash.com/@rapol?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Rafael Pol</a> on <a href="https://unsplash.com/photos/6b5uqlWabB0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   ](https://github.com/faridmmz/Image-Search-CUDA/blob/main/README_image.jpg "Photo by Rafael Pol on Unsplash")
 
-
 ## Contributors
 
 - Faridreza Momtazzandi
